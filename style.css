@@ -472,7 +472,7 @@
   
   .banner_section {
     background-image: url(./img/banner.jpg);
-    padding: .5rem 0rem 33rem 0rem;
+    padding: .5rem 0rem 40rem 0rem;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: bottom center;
@@ -789,7 +789,9 @@
     font-size: 1.5rem;
     color: #606060;
     font-weight: 400;
+	cursor: pointer;
     padding-bottom: 1rem;
+	  
   }
   
   .courses_section .card .inner_card p span {
@@ -854,6 +856,7 @@
     display: inline-block;
     text-align: center;
     font-size: 1.5rem;
+	  cursor: pointer;
   }
   
   .admission_section {
@@ -1496,7 +1499,14 @@
     color: #fff;
     font-weight: 500;
     margin-top: .1rem;
+	  cursor: pointer;
+	  transition: .4s;
+	  
   }
+.fotter_section .subscribe .s_content .s_right .submit{
+	background: #0d0d3b;
+}
+	
   
   .fotter_section .footer_item .footer_content {
     float: left;

@@ -194,11 +194,10 @@
   /* =========DROPDOWN========= */
 
   .dropdwon {
-    width: 60rem;
+    width: 55rem;
     position: absolute;
     background: #fff;
     top: 100% !important;
-    left: -53px;
     box-shadow: 0rem 0rem 1rem rgb(199, 199, 199);
     padding: 3rem 0rem;
     visibility: hidden;

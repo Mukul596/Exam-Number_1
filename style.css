@@ -1523,8 +1523,8 @@
   
   .fotter_section .footer_item .footer_content .inner ul li a {
     color: #fff;
-    -webkit-transition: 0.4s;
     transition: 0.4s;
+	  text-transform: capitalize;
   }
   
   .fotter_section .footer_item .footer_content .inner ul li a:hover {

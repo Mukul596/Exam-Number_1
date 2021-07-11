@@ -632,9 +632,10 @@
     padding: 2rem 1rem;
   }
   
-  .section_title .left {
-    float: left;
-  }
+.section_title .left {
+	float: left;
+	width: 100%;
+}
   
   .section_title .left span {
     color: #21a7d0;
@@ -650,9 +651,11 @@
     padding-bottom: 1rem;
   }
   
-  .section_title .right {
-    float: right;
-  }
+.section_title .right {
+	float: right;
+	width: 100%;
+	margin-top: 3rem;
+}
   
   .section_title .right a {
     color: #000000;

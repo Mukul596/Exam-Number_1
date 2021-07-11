@@ -237,6 +237,10 @@
     width: 90%;
    
   }
+.fotter_section .subscribe {
+	top: -14rem;
+	
+}
 .fotter_section .subscribe .s_content .s_right .submit {
 
 	padding-bottom: 0;
@@ -672,10 +676,7 @@
     margin-bottom: 3rem;
     padding-left: 6rem;
   }
-  .fotter_section .fotter_bottom .flot .part .inner_part {
-    text-align: left;
-    padding-left: 5rem;
-  }
+
   .teacher_section .flot .box {
     width: 100%;
     float: left;
@@ -716,6 +717,11 @@
   .fotter_section .fotter_bottom .flot .part_defoult_btn .inner_part p {
     font-size: 1.2rem;
   }
+.header_menu_section .main_menu .right {
+	
+	width: 80%;
+	
+}
   .header_menu_section .main_menu .right .flaticon-bag {
     font-size: 2.2rem;
     padding: 0 1.5rem;

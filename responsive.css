@@ -69,6 +69,17 @@
   .about_section .about_content .right .middle2 .leftt {
     margin-top: 1rem;
   }
+.fotter_section .subscribe .s_content .s_right .email {
+	width: 30rem;
+
+}
+	
+.fotter_section .subscribe .s_content .s_right .submit {
+	width: 14rem;
+	padding-bottom: .1rem;
+	padding-top: .1rem;
+	
+}
 }
 
 @media all and (max-width: 1197px) {
@@ -226,6 +237,12 @@
     width: 90%;
    
   }
+.fotter_section .subscribe .s_content .s_right .submit {
+
+	padding-bottom: 0;
+	padding-top: .3rem;
+	
+}
 }
 @media all and (max-width: 934px) {
   .admission_section .right_content .inner {
@@ -261,10 +278,6 @@
     text-align: justify;
   }
 
-  .fotter_section .subscribe .s_content .s_right .submit {
-    margin-left: -1rem;
-    margin-top: 0;
-  }
 
   .category_section .card_item {
     width: 50%;
@@ -458,6 +471,11 @@
   .news_section .right_side .right .inner_right {
     padding-top: 3rem;
   }
+.fotter_section .subscribe .s_content .s_right .submit {
+
+	padding-bottom: 0;
+	padding-top: .4rem;
+	
 }
 
 @media all and (max-width: 568px) {

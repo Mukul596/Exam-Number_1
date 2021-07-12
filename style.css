@@ -634,7 +634,7 @@
   
 .section_title .left {
 	float: left;
-	width: 100%;
+	width: 50%;
 }
   
   .section_title .left span {
@@ -653,8 +653,9 @@
   
 .section_title .right {
 	float: right;
-	width: 100%;
+	width: 50%;
 	margin-top: 3rem;
+	text-align: right;
 }
   
   .section_title .right a {

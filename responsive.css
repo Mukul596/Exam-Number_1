@@ -516,6 +516,17 @@
   .section_title {
     padding-bottom: 6rem;
   }
+	
+.section_title .left {
+	width: 100%;
+}
+.section_title .right {
+	float: right;
+	width: 100%;
+	margin-top: 2rem;
+	
+}
+	
   html {
     font-size: 6px;
   }
